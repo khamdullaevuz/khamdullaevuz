@@ -3,7 +3,7 @@
 - 🐍 I’m currently learning Python
 - 👨‍💻 I’m looking to collaborate on projects
 - 💬 I'm 17-years old developer from Uzbekistan/Samarkand
-- 🌐 [Mypage.Uz](https://mypage.uz)
+- 🌐 [www.khamdullaev.uz](https://khamdullaev.uz)
 - 📫 Reach me on [![Dynamic name](https://img.shields.io/badge/KhamdullaevUz-30302f?style=flat&logo=telegram)](https://t.me/KhamdullaevUz)
 
 - ⚡ Fun fact :- `One day you'll look back and realize that you worried too much about things that don't really matter.`
