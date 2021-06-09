@@ -1,6 +1,6 @@
 - 👋 What's up guys, I'm Elbek
 - 💻 I know PHP & MYSQLI
-- 🐍 I’m currently learning Python
+- 🐍 I’m currently learning Python & OOP
 - 👨‍💻 I’m looking to collaborate on projects
 - 💬 I'm 17-years old developer from Uzbekistan/Samarkand
 - 🌐 My web-site [www.khamdullaev.uz](https://khamdullaev.uz)
