@@ -1,10 +1,9 @@
 - 👋 What's up guys, I'm Elbek
-- 💻 I know PHP & MYSQLI
-- 🐍 I’m currently learning Python & OOP
+- 💻 I know PHP & MYSQLI & OOP
 - 👨‍💻 I’m looking to collaborate on projects
 - 💬 I'm 17-years old developer from Uzbekistan/Samarkand
 - 🌐 My web-site [www.khamdullaev.uz](https://khamdullaev.uz)
-- 📫 Reach me on [![Dynamic name](https://img.shields.io/badge/KhamdullaevUz-30302f?style=flat&logo=telegram)](https://t.me/KhamdullaevUz)
+- 📫 Reach me on [![Elbek Khamdullaev](https://img.shields.io/badge/KhamdullaevUz-30302f?style=flat&logo=telegram)](https://t.me/KhamdullaevUz)
 
 - ⚡ Fun fact :- `One day you'll look back and realize that you worried too much about things that don't really matter.`
 
