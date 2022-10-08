@@ -14,6 +14,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=khamdullaevuz&icon=0&color=0)](https://visitcount.itsvg.in)
+[![wakatime](https://wakatime.com/badge/user/000c077a-1c2c-49e3-a8de-257586c33f00.svg)](https://wakatime.com/@000c077a-1c2c-49e3-a8de-257586c33f00)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/khamdullaevuz) 
