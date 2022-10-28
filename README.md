@@ -13,7 +13,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khamdullaevuz&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 # 📊 Wakatime Stats:
-<figure><embed src="https://wakatime.com/share/@khamdullaevuz/fddfea0c-a9f3-4e15-aa9d-f8ca44ae2fba.svg"></embed></figure>
+.. image:: https://wakatime.com/share/@khamdullaevuz/d837eb8a-dd3f-4ebe-8a36-546c730d0d32.png
+    :target: https://wakatime.com/
 
 ---
 [![](https://visitcount.itsvg.in/api?id=khamdullaevuz&icon=0&color=0)](https://visitcount.itsvg.in)
