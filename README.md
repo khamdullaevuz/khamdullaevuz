@@ -12,11 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khamdullaevuz&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khamdullaevuz&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-# 📊 Wakatime Stats:
-![](https://wakatime.com/share/@khamdullaevuz/d837eb8a-dd3f-4ebe-8a36-546c730d0d32.png)
-## My coding activity:
-![](https://wakatime.com/share/@khamdullaevuz/2725bce0-1732-42d7-9847-7bcbc7895ebf.png)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=khamdullaevuz&icon=0&color=0)](https://visitcount.itsvg.in)
 [![wakatime](https://wakatime.com/badge/user/000c077a-1c2c-49e3-a8de-257586c33f00.svg?style=flat-square)](https://wakatime.com/@000c077a-1c2c-49e3-a8de-257586c33f00)
