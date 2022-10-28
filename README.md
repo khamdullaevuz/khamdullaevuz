@@ -14,6 +14,8 @@
 
 # 📊 Wakatime Stats:
 ![](https://wakatime.com/share/@khamdullaevuz/d837eb8a-dd3f-4ebe-8a36-546c730d0d32.png)
+## My coding activity:
+![](https://wakatime.com/share/@khamdullaevuz/2725bce0-1732-42d7-9847-7bcbc7895ebf.png)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=khamdullaevuz&icon=0&color=0)](https://visitcount.itsvg.in)
