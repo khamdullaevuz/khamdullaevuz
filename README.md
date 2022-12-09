@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Laravel<br>👯 I’m looking to collaborate on Laravel<br>🤝 I’m looking for help with Laravel<br>🌱 I’m currently learning Laravel<br>💬 Ask me about [elbek.me](https://elbek.me)
+🔭 I’m currently working on Laravel<br>💬 Ask me about [elbek.me](https://elbek.me)
 
 
 ## 🌐 Socials:
