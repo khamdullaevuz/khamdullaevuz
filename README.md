@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on laravel<br>💬 Ask me about elbek.me
+🔭 I’m currently working on laravel<br>💬 Ask me about [elbek.me](https://elbek.me)
 
 
 ## 🌐 Socials:
