@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![Hits](https://hits.sh/github.com/khamdullaevuz.svg?style=plastic)](https://hits.sh/github.com/khamdullaevuz/)
+[![Hits](https://hits.sh/github.com/khamdullaevuz.svg)](https://hits.sh/github.com/khamdullaevuz/)
 [![wakatime](https://wakatime.com/badge/user/000c077a-1c2c-49e3-a8de-257586c33f00.svg?sytle=flat)](https://wakatime.com/@000c077a-1c2c-49e3-a8de-257586c33f00)
 
   ## 💰 You can help me by Donating
