@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I'm currently working on laravel<br>💬 Ask me about [elbek.me](https://elbek.me)
+👨‍💻 I'm backend developer
+🔭 I'm currently working on Radius mobile<br>
+🌱 I’m currently working with php<br>
+💬 Ask me about [elbek.me](https://elbek.me)
 
 
 ## 🌐 Socials:
