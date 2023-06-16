@@ -1,14 +1,14 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=&color=FFF&center=true&vCenter=true&width=435&lines=Hello,+There+👋;This+is+Elbek!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=&color=FFF&center=true&vCenter=true&width=435&lines=Hello,+There+👋;This+is+Elbek!)](https://github.com/khamdullaevuz)
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Muhammadislom) -->
 
-[![Elbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=khamdullaevuz&count_private=true&show_icons=true&theme=radical)]()
+[![Elbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=khamdullaevuz&count_private=true&show_icons=true&theme=radical)](https://github.com/khamdullaevuz)
 
 ### Tools and Programs:
   <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,git,github,gitlab,githubactions,tailwind,php,laravel,wordpress,mysql,postgresql,vue,nuxtjs,vite,vscode,visualstudio,idea,figma,postman,nginx,linux,redis,docker,aws,heroku,jenkins,bash,linux,md,vim,neovim,netlify,rabbitmq,regex,selenium&perline=15)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,git,github,gitlab,githubactions,tailwind,php,laravel,wordpress,mysql,postgresql,vue,nuxtjs,vite,vscode,visualstudio,idea,figma,postman,nginx,linux,redis,docker,aws,heroku,jenkins,bash,linux,md,vim,neovim,netlify,rabbitmq,regex,selenium&perline=15)](https://github.com/khamdullaevuz)
   </p>
   
 ### Connect with me:
