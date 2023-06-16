@@ -3,7 +3,7 @@
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Muhammadislom) -->
 
-[![Elbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=khamdullaevuz&count_private=true&show_icons=true&theme=dracula)](https://github.com/siberfx/github-readme-stats)
+[![Elbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=khamdullaevuz&count_private=true&show_icons=true&theme=radical)]()
 
 ### Tools and Programs:
   <p align="left">
