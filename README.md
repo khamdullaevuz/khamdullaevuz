@@ -8,7 +8,7 @@
 ### Tools and Programs:
   <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,git,github,gitlab,githubactions,tailwind,php,laravel,wordpress,mysql,postgresql,sqlite	,vue,nuxtjs,vite,vscode,visualstudio,idea,figma,postman,nginx,linux,redis,docker,aws,heroku,jenkins,bash,linux,md,vim,neovim,netlify,rabbitmq,regex,selenium,atom,cpp,devto,discord,eclipse&perline=15)](https://github.com/khamdullaevuz)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,git,github,gitlab,githubactions,tailwind,php,laravel,wordpress,mysql,postgresql,sqlite,vue,nuxtjs,vite,vscode,visualstudio,idea,figma,postman,nginx,linux,redis,docker,aws,heroku,jenkins,bash,linux,md,vim,neovim,netlify,rabbitmq,regex,selenium,atom,cpp,devto,discord,eclipse&perpage=15)](https://github.com/khamdullaevuz)
   </p>
   
 ### Connect with me:
