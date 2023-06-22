@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=&color=FFF&center=true&vCenter=true&width=435&lines=Hello+👋;My+name+is+Elbek!;I'm+backend+developer)](https://github.com/khamdullaevuz)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=&color=FFF&center=true&vCenter=true&width=435&lines=Hey+There+👋;My+name+is+Elbek!;I'm+backend+developer)](https://github.com/khamdullaevuz)
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Muhammadislom) -->
 
