@@ -3,8 +3,6 @@
 
 [![Elbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=khamdullaevuz&count_private=true&show_icons=true&theme=radical)](https://github.com/khamdullaevuz)
 
-[![Elbek's GitHub Streak](https://streak-stats.demolab.com?user=khamdullaevuz&theme=radical)](https://github.com/khamdullaevuz)
-
 ### Tools and Programs:
   <p align="left">
 
