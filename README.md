@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=&color=FFF&center=true&vCenter=true&width=435&lines=Hey+There+👋;My+name+is+Elbek!;I'm+backend+developer)](https://github.com/khamdullaevuz)
 
-[![Elbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=khamdullaevuz&count_private=true&show_icons=true&theme=radical)](https://github.com/khamdullaevuz)
+[![Elbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=khamdullaevuz&count_private=true&show_icons=true&hide_border=true&theme=gruvbox&bg_color=00000000)](https://github.com/khamdullaevuz)
 
 ### Tools and Programs:
   <p align="left">
